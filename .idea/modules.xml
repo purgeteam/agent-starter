@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/agent-demo/agent-demo.iml" filepath="$PROJECT_DIR$/agent-demo/agent-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agent-starter.iml" filepath="$PROJECT_DIR$/agent-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-agent-demo/springboot-agent-demo.iml" filepath="$PROJECT_DIR$/springboot-agent-demo/springboot-agent-demo.iml" />
+    </modules>
+  </component>
+</project>
